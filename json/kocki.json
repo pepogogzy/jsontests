@@ -1,1 +1,9 @@
-[{"shape":"circle", "color":"pink", "width":"100", "height":"100"}]
+[
+	{"shape":"circle", "color":"pink", "width":"100", "height":"100", "posx":"50", "posy":"100"},
+	{"shape":"circle", "color":"blue", "width":"200", "height":"200", "posx":"500", "posy":"300"},
+	{"shape":"circle", "color":"purple", "width":"150", "height":"150", "posx":"180", "posy":"200"},
+	{"shape":"rectangle", "color":"red", "width":"80", "height":"80", "posx":"250", "posy":"100"},
+	{"shape":"rectangle", "color":"orange", "width":"160", "height":"200", "posx":"400", "posy":"320"},
+	{"shape":"rectangle", "color":"green", "width":"200", "height":"120", "posx":"120", "posy":"620"}
+
+]
